@@ -1,103 +1,80 @@
-# Hi, I'm Shivani Gupta 👋
+# Shivani Gupta 👋  
+**Data Analyst | Power BI • SQL • Python • Snowflake**
 
-*Data Analyst* | Transforming raw data into business impact through Power BI, SQL, Python & Snowflake
+📊 **2+ Years Experience | Global Healthcare Analytics | Fortune 500**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivaniguptaa2/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivaniguptaa2/)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guptaashivani15@gmail.com)
 
 ---
 
-## 💡 About Me
+## ⚡ At a Glance
 
-I'm a Data Analyst with *2+ years of experience* driving data-driven decisions at *Cognizant*, a Fortune 500 global IT services company. I specialize in building high-performance dashboards, crafting complex analytics solutions, and delivering insights that directly impact business outcomes.
-
-My flagship project? A *global healthcare analytics initiative spanning 52+ countries, where I maintained **99% data accuracy* across 200K+ records while supporting 200+ end users. I thrive on turning messy data into clean, actionable intelligence.
-
-When I'm not wrangling data, I'm exploring machine learning applications and optimizing report performance—because faster insights mean better decisions.
-
----
-
-## 🛠️ Technical Skills
-
-### Data Visualization & BI
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![DAX](https://img.shields.io/badge/DAX-007ACC?style=flat-square&logo=powerbi&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
-
-### Languages & Databases
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
-
-### Data Engineering & Analytics
-![Power Query](https://img.shields.io/badge/Power%20Query-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
-![Data Modeling](https://img.shields.io/badge/Data%20Modeling-FF6F00?style=flat-square&logo=databricks&logoColor=white)
-![Statistics](https://img.shields.io/badge/Statistics-4285F4?style=flat-square&logo=google-analytics&logoColor=white)
-
-*Core Competencies:* Star/Snowflake Schema Design • Row-Level Security (RLS) • ETL Pipelines • Statistical Analysis • Machine Learning Fundamentals
+- 🏢 Data Analyst at **Cognizant (Fortune 500)**
+- 🌍 Analytics delivered across **52+ countries**
+- 📈 **15+ Power BI dashboards** for business & leadership
+- 🧮 **30+ DAX measures** for complex business logic
+- ✅ **99% data accuracy** on **200K+ healthcare records**
+- 👥 Supported **200+ global stakeholders**
 
 ---
 
-## 🏆 Professional Impact at Cognizant
+## 🧠 What I Do Best
 
-| Metric | Achievement |
-|--------|-------------|
-| *Dashboards Built* | 15+ Power BI dashboards supporting executive decision-making |
-| *DAX Measures Created* | 30+ custom calculations for complex business logic |
-| *Data Accuracy* | 99% accuracy maintained on 200K+ healthcare records |
-| *Performance Gains* | 20-25% improvement in report load times |
-| *Data Quality* | 30-40% reduction in data inconsistencies |
-| *Users Supported* | 200+ stakeholders across global teams |
-| *Geographic Scope* | Analytics solutions deployed across 52+ countries |
-
-🎖️ Recognized with the **Cheers Award for Innovation* at Cognizant for outstanding DAX implementation* 
+- Build **high-impact Power BI dashboards**
+- Write **efficient SQL & advanced DAX**
+- Design **clean star & snowflake data models**
+- Improve **report performance (20–25%)**
+- Reduce **data inconsistencies (30–40%)**
+- Translate data into **business decisions**
 
 ---
 
-## 📂 Project Focus Areas
+## 🛠️ Core Skills
 
-My repositories showcase work in these domains:
+**BI & Analytics**  
+Power BI • DAX • Tableau  
 
-- *📊 Business Intelligence* — Power BI dashboards, interactive reports, and DAX optimization
-- *🔍 SQL Analytics* — Complex queries, data transformations, and database optimization
-- *🐍 Python Data Analysis* — Exploratory data analysis, automation scripts, and ML experiments
-- *🏥 Healthcare Analytics* — Real-world applications in global health data management
-- *📈 Data Modeling* — Star/Snowflake schemas and enterprise data architecture
+**Languages & Data**  
+SQL • Python • Snowflake  
 
-Check my pinned repositories below for featured projects ⬇️
-
----
-
-## 📚 Currently Learning
-
-- Advanced machine learning techniques for predictive analytics
-- Cloud data platforms and modern data stack architectures
-- Statistical modeling for business forecasting
-- Expanding Python libraries: Pandas, NumPy, Scikit-learn
+**Engineering**  
+Power Query • ETL • Data Modeling • RLS • Statistics  
 
 ---
 
-## 📊 GitHub Stats
+## 🏆 Key Achievements
+
+- 🏅 **Cheers Award for Innovation** — Advanced DAX implementation  
+- 🚀 Improved report load time by **20–25%**  
+- 📉 Reduced data issues by **30–40%**  
+- 🌐 Enabled analytics for **global healthcare programs**
+
+---
+
+## 📂 Project Areas
+
+- 📊 Business Intelligence & Dashboards  
+- 🔍 SQL Analytics & Optimization  
+- 🐍 Python Data Analysis & ML Basics  
+- 🏥 Healthcare Analytics  
+- 📐 Enterprise Data Modeling  
+
+⬇️ See pinned repositories for real-world projects
+
+---
+
+## 📊 GitHub Snapshot
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shivaniguptaa2&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivaniguptaa2&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shivaniguptaa2&show_icons=true&hide_border=true" />
 </p>
 
 ---
 
-## 🤝 Let's Connect
+## 🤝 Let’s Connect
 
-I'm always open to collaborating on data analytics projects, discussing BI best practices, or exploring new opportunities in data-driven organizations.
+📧 **Email:** guptaashivani15@gmail.com  
+💼 **LinkedIn:** https://www.linkedin.com/in/shivaniguptaa2/
 
-📧 *Email:* [guptaashivani15@gmail.com](mailto:guptaashivani15@gmail.com)  
-💼 *LinkedIn:* [linkedin.com/in/shivaniguptaa2](https://www.linkedin.com/in/shivaniguptaa2/)
-
----
-
-<p align="center">
-  <i>"Turning complex data into simple, actionable insights—one dashboard at a time."</i>
-</p>
+<i>Turning complex data into fast, actionable insights.</i>
