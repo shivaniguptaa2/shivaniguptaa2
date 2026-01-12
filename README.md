@@ -60,16 +60,6 @@ Power Query • ETL • Data Modeling • RLS • Statistics
 - 🏥 Healthcare Analytics  
 - 📐 Enterprise Data Modeling  
 
-⬇️ See pinned repositories for real-world projects
-
----
-
-## 📊 GitHub Snapshot
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shivaniguptaa2&show_icons=true&hide_border=true" />
-</p>
-
 ---
 
 ## 🤝 Let’s Connect
