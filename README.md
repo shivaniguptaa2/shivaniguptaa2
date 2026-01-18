@@ -144,7 +144,7 @@ I'm a **Data Analyst** at **Cognizant (Fortune 500)** with **2+ years of experie
 
 I'm always interested in discussing data analytics, BI best practices, or potential collaboration opportunities!
 
-- 💼 **LinkedIn:** [linkedin.com/in/shivaniguptaa2](https://www.linkedin.com/in/shivaniguptaa2/)
+- 💼 **LinkedIn:** [linkedin.com/in/guptaashivani15][(https://www.linkedin.com/in/guptaashivani15/))]
 - 📧 **Email:** guptaashivani15@gmail.com
 - 💻 **GitHub:** [github.com/shivaniguptaa2](https://github.com/shivaniguptaa2)
 
